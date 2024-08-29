@@ -1,0 +1,6 @@
+# This file lists the Python packages that project depends on.
+# Users can install these packages using `pip install -r requirements.txt`.
+
+pandas==2.0.0
+numpy==1.23.5
+scikit-learn==1.2.2
